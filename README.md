@@ -1,3 +1,3 @@
 ## Perceptron
 Perceptron analysis
-![Graph]
+![Graph](P1.png)
